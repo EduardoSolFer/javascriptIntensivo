@@ -76,7 +76,7 @@ body {
 }
 
 .navigation ul li.active a .icon {
-  color: white;
+  color: #ffdb28;
   background: var(--clr);
 }
 
